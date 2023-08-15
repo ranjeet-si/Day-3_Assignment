@@ -1,0 +1,15 @@
+D:\DotNet\Day-3_Assignment\Shape Hierarchy using Interfaces\bin\Debug\net6.0\Shape Hierarchy using Interfaces.exe
+D:\DotNet\Day-3_Assignment\Shape Hierarchy using Interfaces\bin\Debug\net6.0\Shape Hierarchy using Interfaces.deps.json
+D:\DotNet\Day-3_Assignment\Shape Hierarchy using Interfaces\bin\Debug\net6.0\Shape Hierarchy using Interfaces.runtimeconfig.json
+D:\DotNet\Day-3_Assignment\Shape Hierarchy using Interfaces\bin\Debug\net6.0\Shape Hierarchy using Interfaces.dll
+D:\DotNet\Day-3_Assignment\Shape Hierarchy using Interfaces\bin\Debug\net6.0\Shape Hierarchy using Interfaces.pdb
+D:\DotNet\Day-3_Assignment\Shape Hierarchy using Interfaces\obj\Debug\net6.0\Shape Hierarchy using Interfaces.csproj.AssemblyReference.cache
+D:\DotNet\Day-3_Assignment\Shape Hierarchy using Interfaces\obj\Debug\net6.0\Shape Hierarchy using Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Day-3_Assignment\Shape Hierarchy using Interfaces\obj\Debug\net6.0\Shape Hierarchy using Interfaces.AssemblyInfoInputs.cache
+D:\DotNet\Day-3_Assignment\Shape Hierarchy using Interfaces\obj\Debug\net6.0\Shape Hierarchy using Interfaces.AssemblyInfo.cs
+D:\DotNet\Day-3_Assignment\Shape Hierarchy using Interfaces\obj\Debug\net6.0\Shape Hierarchy using Interfaces.csproj.CoreCompileInputs.cache
+D:\DotNet\Day-3_Assignment\Shape Hierarchy using Interfaces\obj\Debug\net6.0\Shape Hierarchy using Interfaces.dll
+D:\DotNet\Day-3_Assignment\Shape Hierarchy using Interfaces\obj\Debug\net6.0\refint\Shape Hierarchy using Interfaces.dll
+D:\DotNet\Day-3_Assignment\Shape Hierarchy using Interfaces\obj\Debug\net6.0\Shape Hierarchy using Interfaces.pdb
+D:\DotNet\Day-3_Assignment\Shape Hierarchy using Interfaces\obj\Debug\net6.0\Shape Hierarchy using Interfaces.genruntimeconfig.cache
+D:\DotNet\Day-3_Assignment\Shape Hierarchy using Interfaces\obj\Debug\net6.0\ref\Shape Hierarchy using Interfaces.dll

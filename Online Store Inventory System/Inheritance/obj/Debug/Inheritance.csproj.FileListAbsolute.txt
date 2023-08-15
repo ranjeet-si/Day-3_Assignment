@@ -1,0 +1,16 @@
+C:\Users\prasa\OneDrive\Desktop\C Sharp\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\prasa\OneDrive\Desktop\C Sharp\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\prasa\OneDrive\Desktop\C Sharp\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\prasa\OneDrive\Desktop\C Sharp\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\prasa\OneDrive\Desktop\C Sharp\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\prasa\OneDrive\Desktop\C Sharp\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\prasa\OneDrive\Desktop\C Sharp\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\prasa\OneDrive\Desktop\C Sharp\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\Ranjeet.yadav\Downloads\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Ranjeet.yadav\Downloads\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Ranjeet.yadav\Downloads\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Ranjeet.yadav\Downloads\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\Ranjeet.yadav\Downloads\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ranjeet.yadav\Downloads\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Ranjeet.yadav\Downloads\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Ranjeet.yadav\Downloads\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

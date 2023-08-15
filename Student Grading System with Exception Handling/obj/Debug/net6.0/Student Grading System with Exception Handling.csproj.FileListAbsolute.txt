@@ -1,0 +1,15 @@
+D:\DotNet\Day-3_Assignment\Student Grading System with Exception Handling\bin\Debug\net6.0\Student Grading System with Exception Handling.exe
+D:\DotNet\Day-3_Assignment\Student Grading System with Exception Handling\bin\Debug\net6.0\Student Grading System with Exception Handling.deps.json
+D:\DotNet\Day-3_Assignment\Student Grading System with Exception Handling\bin\Debug\net6.0\Student Grading System with Exception Handling.runtimeconfig.json
+D:\DotNet\Day-3_Assignment\Student Grading System with Exception Handling\bin\Debug\net6.0\Student Grading System with Exception Handling.dll
+D:\DotNet\Day-3_Assignment\Student Grading System with Exception Handling\bin\Debug\net6.0\Student Grading System with Exception Handling.pdb
+D:\DotNet\Day-3_Assignment\Student Grading System with Exception Handling\obj\Debug\net6.0\Student Grading System with Exception Handling.csproj.AssemblyReference.cache
+D:\DotNet\Day-3_Assignment\Student Grading System with Exception Handling\obj\Debug\net6.0\Student Grading System with Exception Handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Day-3_Assignment\Student Grading System with Exception Handling\obj\Debug\net6.0\Student Grading System with Exception Handling.AssemblyInfoInputs.cache
+D:\DotNet\Day-3_Assignment\Student Grading System with Exception Handling\obj\Debug\net6.0\Student Grading System with Exception Handling.AssemblyInfo.cs
+D:\DotNet\Day-3_Assignment\Student Grading System with Exception Handling\obj\Debug\net6.0\Student Grading System with Exception Handling.csproj.CoreCompileInputs.cache
+D:\DotNet\Day-3_Assignment\Student Grading System with Exception Handling\obj\Debug\net6.0\Student Grading System with Exception Handling.dll
+D:\DotNet\Day-3_Assignment\Student Grading System with Exception Handling\obj\Debug\net6.0\refint\Student Grading System with Exception Handling.dll
+D:\DotNet\Day-3_Assignment\Student Grading System with Exception Handling\obj\Debug\net6.0\Student Grading System with Exception Handling.pdb
+D:\DotNet\Day-3_Assignment\Student Grading System with Exception Handling\obj\Debug\net6.0\Student Grading System with Exception Handling.genruntimeconfig.cache
+D:\DotNet\Day-3_Assignment\Student Grading System with Exception Handling\obj\Debug\net6.0\ref\Student Grading System with Exception Handling.dll
